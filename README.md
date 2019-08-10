@@ -1,8 +1,8 @@
 # .blend files for efficient Blender 2.8 theme development
 
-Goals:
-* Quick theme testing
-* consistent screenshots
+## Goals: ##
+* Quick theme testing 
+* Consistent screenshots
 
 
 Required: [Blender 2.8](https://www.blender.org/download/)

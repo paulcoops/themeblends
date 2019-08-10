@@ -1,3 +1,10 @@
-# .blend files for Blender 2.8 theme screenshots
+# .blend files for efficient Blender 2.8 theme development
 
-Project goal: Quick theme testing and consistent screenshots for Blender 2.8 themes
+Goals:
+* Quick theme testing
+* consistent screenshots
+
+
+Required: [Blender 2.8](https://www.blender.org/download/)
+
+Join the [Development Fund](https://fund.blender.org) and support Blender Foundation to work on core Blender development.

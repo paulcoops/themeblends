@@ -1,4 +1,4 @@
-# .blend files for efficient Blender 2.8 theme development
+# .blend files for efficient Blender 2.81 theme development
 
 * [testblends](/testblends) for quick theme testing
 * [screenblends](/screenblends) for consistent screenshots

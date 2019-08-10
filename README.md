@@ -1,9 +1,10 @@
 # .blend files for efficient Blender 2.8 theme development
 
 ## Goals: ##
-* Quick theme testing 
-* Consistent screenshots
+* Quick theme testing [testblends](/testblends)
+* Consistent screenshots [screenblends](/screenblends)
 
+* [Download themeblends](https://github.com/paulcoops/themeblends/archive/master.zip)
 
 Required: [Blender 2.8](https://www.blender.org/download/)
 

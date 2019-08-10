@@ -1,7 +1,7 @@
 # .blend files for efficient Blender 2.8 theme development
 
-* [testblends](/testblends) Quick theme testing
-* [screenblends](/screenblends) Consistent screenshots
+* [testblends](/testblends) for quick theme testing
+* [screenblends](/screenblends) for consistent screenshots
 
 * [Download themeblends](https://github.com/paulcoops/themeblends/archive/master.zip)
 
